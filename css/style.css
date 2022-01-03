@@ -50,7 +50,7 @@ audio {
   width: 100%;
 }
 
-button {
+button, .button {
   margin: 0 auto;
   display: block;
   margin-top: 32px;
@@ -61,6 +61,8 @@ button {
   border-radius: 2px;
   box-shadow: -4px 4px 0 0 var(--black-color);
   cursor: pointer;
+  color: var(--black-color);
+  text-decoration: none;
 }
 
 #container {
