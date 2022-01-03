@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400&display=swap"
+    rel="stylesheet"
+  />
+  <link type="text/css" rel="stylesheet" href="css/style.css" />
+  <title>English Quiz</title>
+</head>
+<body>
+<main>
+  <div id="container">
+    <div id="form-wrapper" class="hidden-wrapper">
+      <form>
+        <div class="form-element">
+          <label for="name">Name</label>
+          <input id="name" type="text" required value="Louis" />
+        </div>
+        <div class="form-element">
+          <label for="phone">Phone number</label>
+          <input id="phone" type="tel" required value="0000000" />
+        </div>
+        <div class="form-element">
+          <label for="gender">Gender</label>
+          <input id="gender" type="text" required value="Male" />
+        </div>
+        <div class="form-element">
+          <label for="age">Age</label>
+          <input id="age" type="number" min="0" required value="29" />
+        </div>
+        <div class="form-element">
+          <label for="grade">Grade</label>
+          <select id="grade" required>
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+          </select>
+        </div>
+        <div class="form-element">
+          <label for="school">School</label>
+          <input id="school" type="text" required value="Test" />
+        </div>
+        <button type="submit">Continue</button>
+      </form>
+    </div>
+    <div id="friendly-message-wrapper" class="hidden-wrapper">
+      <p>
+        Friendly message content...
+      </p>
+      <button type="button">Continue</button>
+    </div>
+    <div id="quiz-wrapper" class="hidden-wrapper">
+      <audio controls id="audio">
+        <source src="" type="audio/mpeg">
+      </audio>
+      <p id="en-entity"></p>
+      <p id="zh-entity"></p>
+      <div id="quiz-action">
+        <button type="button" id="correct-btn">Correct</button>
+        <button type="button" id="skip-btn">Skip</button>
+      </div>
+    </div>
+    <div id="summary-wrapper" class="hidden-wrapper">
+      <div id="summary-container">
+        <div id="thumbup">
+          👍
+        </div>
+        <p>
+          Congrats...
+        </p>
+        <img src="" alt="QR code" loading="lazy" id="qr-code" />
+      </div>
+    </div>
+  </div>
+</main>
+<script type="text/javascript" src="js/quiz.js"></script>
+</body>
+</html>

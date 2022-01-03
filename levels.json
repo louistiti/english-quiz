@@ -1,0 +1,599 @@
+{
+  "levels": [
+    {
+      "name": "A0",
+      "entities": [
+        {
+          "id": 0,
+          "en": "big/small",
+          "zh": "大/小",
+          "type": "words",
+          "audio": "bigsmall.mp3"
+        },
+        {
+          "id": 1,
+          "en": "happy",
+          "zh": "",
+          "type": "word",
+          "audio": "happy.mp3"
+        },
+        {
+          "id": 2,
+          "en": "flower",
+          "zh": "",
+          "type": "word",
+          "audio": "flower.mp3"
+        },
+        {
+          "id": 3,
+          "en": "one/two/three",
+          "zh": "",
+          "type": "words",
+          "audio": "onetwothree.mp3"
+        },
+        {
+          "id": 4,
+          "en": "red",
+          "zh": "",
+          "type": "word",
+          "audio": "red.mp3"
+        },
+        {
+          "id": 5,
+          "en": "yellow",
+          "zh": "",
+          "type": "word",
+          "audio": "yellow.mp3"
+        },
+        {
+          "id": 6,
+          "en": "blue",
+          "zh": "",
+          "type": "word",
+          "audio": "blue.mp3"
+        },
+        {
+          "id": 7,
+          "en": "mother/father",
+          "zh": "",
+          "type": "word",
+          "audio": "motherfather.mp3"
+        },
+        {
+          "id": 8,
+          "en": "apple",
+          "zh": "",
+          "type": "word",
+          "audio": "apple.mp3"
+        },
+        {
+          "id": 9,
+          "en": "jump",
+          "zh": "",
+          "type": "word",
+          "audio": "jump.mp3"
+        }
+      ]
+    },
+    {
+      "name": "A1",
+      "entities": [
+        {
+          "id": 10,
+          "en": "sleep",
+          "zh": "睡觉",
+          "type": "word",
+          "audio": "sleep.mp3"
+        },
+        {
+          "id": 11,
+          "en": "hungry",
+          "zh": "",
+          "type": "word",
+          "audio": "hungry.mp3"
+        },
+        {
+          "id": 12,
+          "en": "children",
+          "zh": "",
+          "type": "word",
+          "audio": "children.mp3"
+        },
+        {
+          "id": 12,
+          "en": "tall",
+          "zh": "",
+          "type": "word",
+          "audio": "tall.mp3"
+        },
+        {
+          "id": 13,
+          "en": "beautiful",
+          "zh": "",
+          "type": "word",
+          "audio": "beautiful.mp3"
+        },
+        {
+          "id": 14,
+          "en": "open",
+          "zh": "",
+          "type": "word",
+          "audio": "open.mp3"
+        },
+        {
+          "id": 15,
+          "en": "everything",
+          "zh": "",
+          "type": "word",
+          "audio": "everything.mp3"
+        },
+        {
+          "id": 16,
+          "en": "forest",
+          "zh": "",
+          "type": "word",
+          "audio": "forest.mp3"
+        },
+        {
+          "id": 17,
+          "en": "home",
+          "zh": "",
+          "type": "word",
+          "audio": "home.mp3"
+        },
+        {
+          "id": 18,
+          "en": "sit down",
+          "zh": "",
+          "type": "word",
+          "audio": "sitdown.mp3"
+        }
+      ]
+    },
+    {
+      "name": "A2",
+      "entities": [
+        {
+          "id": 19,
+          "en": "surprised",
+          "zh": "惊喜",
+          "type": "word",
+          "audio": "surprised.mp3"
+        },
+        {
+          "id": 20,
+          "en": "push",
+          "zh": "",
+          "type": "word",
+          "audio": "push.mp3"
+        },
+        {
+          "id": 21,
+          "en": "everywhere",
+          "zh": "",
+          "type": "word",
+          "audio": "everywhere.mp3"
+        },
+        {
+          "id": 22,
+          "en": "daughter",
+          "zh": "",
+          "type": "word",
+          "audio": "daughter.mp3"
+        },
+        {
+          "id": 23,
+          "en": "close the door",
+          "zh": "",
+          "type": "phrase",
+          "audio": "closethedoor.mp3"
+        },
+        {
+          "id": 24,
+          "en": "children",
+          "zh": "",
+          "type": "word",
+          "audio": "children.mp3"
+        },
+        {
+          "id": 25,
+          "en": "love you very much",
+          "zh": "",
+          "type": "phrase",
+          "audio": "loveyouverymuch.mp3"
+        },
+        {
+          "id": 26,
+          "en": "window",
+          "zh": "",
+          "type": "word",
+          "audio": "window.mp3"
+        },
+        {
+          "id": 27,
+          "en": "after",
+          "zh": "",
+          "type": "word",
+          "audio": "after.mp3"
+        },
+        {
+          "id": 28,
+          "en": "angry",
+          "zh": "",
+          "type": "word",
+          "audio": "angry.mp3"
+        },
+        {
+          "id": 29,
+          "en": "There is a big bird flying in the sky.",
+          "zh": "",
+          "type": "sentence",
+          "audio": "bigbirdflying.mp3"
+        },
+        {
+          "id": 30,
+          "en": "I want to eat that very much but I'm not hungry.",
+          "zh": "",
+          "type": "sentence",
+          "audio": "iwannaeat.mp3"
+        }
+      ]
+    },
+    {
+      "name": "A3",
+      "entities": [
+        {
+          "id": 31,
+          "en": "afraid",
+          "zh": "害怕",
+          "type": "word",
+          "audio": "afraid.mp3"
+        },
+        {
+          "id": 32,
+          "en": "question",
+          "zh": "",
+          "type": "word",
+          "audio": "question.mp3"
+        },
+        {
+          "id": 33,
+          "en": "special",
+          "zh": "",
+          "type": "word",
+          "audio": "special.mp3"
+        },
+        {
+          "id": 34,
+          "en": "remember",
+          "zh": "",
+          "type": "word",
+          "audio": "remember.mp3"
+        },
+        {
+          "id": 35,
+          "en": "up and down",
+          "zh": "",
+          "type": "phrase",
+          "audio": "upanddown.mp3"
+        },
+        {
+          "id": 36,
+          "en": "start to cry",
+          "zh": "",
+          "type": "phrase",
+          "audio": "starttocry.mp3"
+        },
+        {
+          "id": 37,
+          "en": "look out of the window",
+          "zh": "",
+          "type": "phrase",
+          "audio": "lookoutwindow.mp3"
+        },
+        {
+          "id": 38,
+          "en": "study",
+          "zh": "",
+          "type": "word",
+          "audio": "study.mp3"
+        },
+        {
+          "id": 39,
+          "en": "dangerous",
+          "zh": "",
+          "type": "word",
+          "audio": "dangerous.mp3"
+        },
+        {
+          "id": 40,
+          "en": "different",
+          "zh": "",
+          "type": "word",
+          "audio": "different.mp3"
+        },
+        {
+          "id": 41,
+          "en": "On Tuesday night there was a lot of noise in the streets.",
+          "zh": "",
+          "type": "sentence",
+          "audio": "tuesdaynight.mp3"
+        },
+        {
+          "id": 42,
+          "en": "Many people from the village went to the house and looked for them.",
+          "zh": "",
+          "type": "sentence",
+          "audio": "manypeople.mp3"
+        }
+      ]
+    },
+    {
+      "name": "B1",
+      "entities": [
+        {
+          "id": 43,
+          "en": "visit",
+          "zh": "",
+          "type": "word",
+          "audio": "visit.mp3"
+        },
+        {
+          "id": 44,
+          "en": "language",
+          "zh": "",
+          "type": "word",
+          "audio": "language.mp3"
+        },
+        {
+          "id": 45,
+          "en": "arrive",
+          "zh": "",
+          "type": "word",
+          "audio": "arrive.mp3"
+        },
+        {
+          "id": 46,
+          "en": "however",
+          "zh": "",
+          "type": "word",
+          "audio": "however.mp3"
+        },
+        {
+          "id": 47,
+          "en": "one of the horses",
+          "zh": "",
+          "type": "phrase",
+          "audio": "oneofthehorses.mp3"
+        },
+        {
+          "id": 48,
+          "en": "decide to run",
+          "zh": "",
+          "type": "phrase",
+          "audio": "decidetorun.mp3"
+        },
+        {
+          "id": 49,
+          "en": "direction",
+          "zh": "",
+          "type": "word",
+          "audio": "direction.mp3"
+        },
+        {
+          "id": 50,
+          "en": "the most important",
+          "zh": "",
+          "type": "phrase",
+          "audio": "themostimportant.mp3"
+        },
+        {
+          "id": 51,
+          "en": "never",
+          "zh": "",
+          "type": "word",
+          "audio": "never.mp3"
+        },
+        {
+          "id": 52,
+          "en": "sleep for a long time",
+          "zh": "",
+          "type": "phrase",
+          "audio": "sleeplongtime.mp3"
+        },
+        {
+          "id": 53,
+          "en": "They do not believe that parents should choose their children's education.",
+          "zh": "",
+          "type": "sentence",
+          "audio": "theydonotbelieve.mp3"
+        },
+        {
+          "id": 54,
+          "en": "I was very kind to the man who had tried to hurt me with a knife.",
+          "zh": "",
+          "type": "sentence",
+          "audio": "iwasverykind.mp3"
+        }
+      ]
+    },
+    {
+      "name": "B2",
+      "entities": [
+        {
+          "id": 55,
+          "en": "protect",
+          "zh": "",
+          "type": "word",
+          "audio": "protect.mp3"
+        },
+        {
+          "id": 56,
+          "en": "conversation",
+          "zh": "",
+          "type": "word",
+          "audio": "conversation.mp3"
+        },
+        {
+          "id": 57,
+          "en": "a few minutes later",
+          "zh": "",
+          "type": "phrase",
+          "audio": "afewminuteslater.mp3"
+        },
+        {
+          "id": 58,
+          "en": "work as a doctor",
+          "zh": "",
+          "type": "phrase",
+          "audio": "workasadoctor.mp3"
+        },
+        {
+          "id": 59,
+          "en": "tradition",
+          "zh": "",
+          "type": "word",
+          "audio": "tradition.mp3"
+        },
+        {
+          "id": 60,
+          "en": "always",
+          "zh": "",
+          "type": "word",
+          "audio": "always.mp3"
+        },
+        {
+          "id": 61,
+          "en": "disappear",
+          "zh": "",
+          "type": "word",
+          "audio": "disappear.mp3"
+        },
+        {
+          "id": 62,
+          "en": "prepare",
+          "zh": "",
+          "type": "word",
+          "audio": "prepare.mp3"
+        },
+        {
+          "id": 63,
+          "en": "comfortable",
+          "zh": "",
+          "type": "word",
+          "audio": "comfortable.mp3"
+        },
+        {
+          "id": 64,
+          "en": "healthier",
+          "zh": "",
+          "type": "word",
+          "audio": "healthier.mp3"
+        },
+        {
+          "id": 65,
+          "en": "They have discovered how the money was stolen.",
+          "zh": "",
+          "type": "sentence",
+          "audio": "theyhavediscovered.mp3"
+        },
+        {
+          "id": 66,
+          "en": "Do you know if the shop's keeper had sold the chiken in the window?",
+          "zh": "",
+          "type": "sentence",
+          "audio": "doyouknow.mp3"
+        }
+      ]
+    },
+    {
+      "name": "B3",
+      "entities": [
+        {
+          "id": 67,
+          "en": "mention",
+          "zh": "",
+          "type": "word",
+          "audio": "mention.mp3"
+        },
+        {
+          "id": 68,
+          "en": "respect",
+          "zh": "",
+          "type": "word",
+          "audio": "respect.mp3"
+        },
+        {
+          "id": 69,
+          "en": "recognize",
+          "zh": "",
+          "type": "word",
+          "audio": "recognize.mp3"
+        },
+        {
+          "id": 70,
+          "en": "evidence",
+          "zh": "",
+          "type": "word",
+          "audio": "evidence.mp3"
+        },
+        {
+          "id": 71,
+          "en": "religion",
+          "zh": "",
+          "type": "word",
+          "audio": "religion.mp3"
+        },
+        {
+          "id": 72,
+          "en": "treasure",
+          "zh": "",
+          "type": "word",
+          "audio": "treasure.mp3"
+        },
+        {
+          "id": 73,
+          "en": "including",
+          "zh": "",
+          "type": "word",
+          "audio": "including.mp3"
+        },
+        {
+          "id": 74,
+          "en": "celebrate",
+          "zh": "",
+          "type": "word",
+          "audio": "celebrate.mp3"
+        },
+        {
+          "id": 75,
+          "en": "patient",
+          "zh": "",
+          "type": "word",
+          "audio": "patient.mp3"
+        },
+        {
+          "id": 76,
+          "en": "fail",
+          "zh": "",
+          "type": "word",
+          "audio": "fail.mp3"
+        },
+        {
+          "id": 77,
+          "en": "What my father had taught me had all been forgotten.",
+          "zh": "",
+          "type": "sentence",
+          "audio": "whatmyfather.mp3"
+        },
+        {
+          "id": 78,
+          "en": "He still believed that I was innocent and so he was as surprised as I was.",
+          "zh": "",
+          "type": "sentence",
+          "audio": "hestillbelieved.mp3"
+        }
+      ]
+    }
+  ]
+}
