@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400&display=swap"
+    rel="stylesheet"
+  />
+  <link type="text/css" rel="stylesheet" href="css/style.css" />
+  <title>English Quiz</title>
+</head>
+<body>
+<main>
+  <div id="container">
+    <form>
+      <div class="form-element">
+        <label for="string">QR code string</label>
+        <input id="string" type="text" placeholder="Paste the QR code string...">
+      </div>
+      <div>
+        <button type="submit">Decode</button>
+      </div>
+    </form>
+  </div>
+</main>
+<script>
+window.addEventListener('DOMContentLoaded', async () => {
+  const form = document.querySelector('form')
+  const input = document.querySelector('input')
+  const preElement = document.createElement('pre')
+
+  form.addEventListener('submit', (e) => {
+    e.preventDefault()
+
+    const str = input.value
+    const result = JSON.parse(atob(str))
+
+    const pre = form.appendChild(preElement)
+    pre.innerHTML = JSON.stringify(result, null, 2)
+  })
+})
+</script>
+</body>
+</html>
