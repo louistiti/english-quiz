@@ -16,6 +16,7 @@
 </head>
 <body>
 <main>
+  <img id="logo" src="/img/logo.png" alt="Phoebe Games logo" width="64" />
   <div id="container">
     <div id="form-wrapper" class="hidden-wrapper">
       <form>
@@ -56,9 +57,12 @@
     </div>
     <div id="friendly-message-wrapper" class="hidden-wrapper">
       <p>
-        Friendly message content...
+        本次测试，需要您和孩子共同完成，每个测试页面包含一个单词、词组或句子，并附有音频与参考答案。被测试者不可观看屏幕，可听音频，答案相近即为正确，点击【正确】，不知道或者说错，没有关系，直接点【跳过】
+        <br />
+        <br />
+        祝您好运！
       </p>
-      <button type="button">Continue</button>
+      <button type="button">开始</button>
     </div>
     <div id="quiz-wrapper" class="hidden-wrapper">
       <audio controls id="audio">
@@ -67,8 +71,8 @@
       <p id="en-entity"></p>
       <p id="zh-entity"></p>
       <div id="quiz-action">
-        <button type="button" id="correct-btn">Correct</button>
-        <button type="button" id="skip-btn">Skip</button>
+        <button type="button" id="correct-btn">正确</button>
+        <button type="button" id="skip-btn">跳过</button>
       </div>
     </div>
     <div id="summary-wrapper" class="hidden-wrapper">
@@ -77,7 +81,10 @@
           👍
         </div>
         <p>
-          Congrats...
+          测试结束
+          <br />
+          <br />
+          请发送截图给我们预约桌游试玩
         </p>
         <img src="" alt="QR code" loading="lazy" id="qr-code" />
       </div>

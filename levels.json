@@ -6,70 +6,70 @@
         {
           "id": 0,
           "en": "big/small",
-          "zh": "大/小",
+          "zh": "大的/小的",
           "type": "words",
           "audio": "bigsmall.mp3"
         },
         {
           "id": 1,
           "en": "happy",
-          "zh": "",
+          "zh": "快乐的；开心的",
           "type": "word",
           "audio": "happy.mp3"
         },
         {
           "id": 2,
           "en": "flower",
-          "zh": "",
+          "zh": "花",
           "type": "word",
           "audio": "flower.mp3"
         },
         {
           "id": 3,
           "en": "one/two/three",
-          "zh": "",
+          "zh": "一/二/三",
           "type": "words",
           "audio": "onetwothree.mp3"
         },
         {
           "id": 4,
           "en": "red",
-          "zh": "",
+          "zh": "红色/红色的",
           "type": "word",
           "audio": "red.mp3"
         },
         {
           "id": 5,
           "en": "yellow",
-          "zh": "",
+          "zh": "黄色/黄色的",
           "type": "word",
           "audio": "yellow.mp3"
         },
         {
           "id": 6,
           "en": "blue",
-          "zh": "",
+          "zh": "蓝色/蓝色的",
           "type": "word",
           "audio": "blue.mp3"
         },
         {
           "id": 7,
           "en": "mother/father",
-          "zh": "",
+          "zh": "妈妈/爸爸",
           "type": "word",
           "audio": "motherfather.mp3"
         },
         {
           "id": 8,
           "en": "apple",
-          "zh": "",
+          "zh": "苹果",
           "type": "word",
           "audio": "apple.mp3"
         },
         {
           "id": 9,
           "en": "jump",
-          "zh": "",
+          "zh": "跳",
           "type": "word",
           "audio": "jump.mp3"
         }
@@ -88,63 +88,63 @@
         {
           "id": 11,
           "en": "hungry",
-          "zh": "",
+          "zh": "饥饿的",
           "type": "word",
           "audio": "hungry.mp3"
         },
         {
           "id": 12,
           "en": "children",
-          "zh": "",
+          "zh": "孩子们",
           "type": "word",
           "audio": "children.mp3"
         },
         {
-          "id": 12,
+          "id": 13,
           "en": "tall",
-          "zh": "",
+          "zh": "高的",
           "type": "word",
           "audio": "tall.mp3"
         },
         {
-          "id": 13,
+          "id": 14,
           "en": "beautiful",
-          "zh": "",
+          "zh": "美丽的；漂亮的",
           "type": "word",
           "audio": "beautiful.mp3"
         },
         {
-          "id": 14,
+          "id": 15,
           "en": "open",
-          "zh": "",
+          "zh": "打开",
           "type": "word",
           "audio": "open.mp3"
         },
         {
-          "id": 15,
+          "id": 16,
           "en": "everything",
-          "zh": "",
+          "zh": "一切；所有事物",
           "type": "word",
           "audio": "everything.mp3"
         },
         {
-          "id": 16,
+          "id": 17,
           "en": "forest",
-          "zh": "",
+          "zh": "森林",
           "type": "word",
           "audio": "forest.mp3"
         },
         {
-          "id": 17,
+          "id": 18,
           "en": "home",
-          "zh": "",
+          "zh": "家",
           "type": "word",
           "audio": "home.mp3"
         },
         {
-          "id": 18,
+          "id": 19,
           "en": "sit down",
-          "zh": "",
+          "zh": "坐下",
           "type": "word",
           "audio": "sitdown.mp3"
         }
@@ -154,88 +154,88 @@
       "name": "A2",
       "entities": [
         {
-          "id": 19,
+          "id": 20,
           "en": "surprised",
-          "zh": "惊喜",
+          "zh": "惊喜的;惊讶的",
           "type": "word",
           "audio": "surprised.mp3"
         },
         {
-          "id": 20,
+          "id": 21,
           "en": "push",
-          "zh": "",
+          "zh": "推",
           "type": "word",
           "audio": "push.mp3"
         },
         {
-          "id": 21,
+          "id": 22,
           "en": "everywhere",
-          "zh": "",
+          "zh": "到处；每个地方",
           "type": "word",
           "audio": "everywhere.mp3"
         },
         {
-          "id": 22,
+          "id": 23,
           "en": "daughter",
-          "zh": "",
+          "zh": "女儿",
           "type": "word",
           "audio": "daughter.mp3"
         },
         {
-          "id": 23,
+          "id": 24,
           "en": "close the door",
-          "zh": "",
+          "zh": "关上门",
           "type": "phrase",
           "audio": "closethedoor.mp3"
         },
         {
-          "id": 24,
-          "en": "children",
-          "zh": "",
-          "type": "word",
-          "audio": "children.mp3"
-        },
-        {
           "id": 25,
-          "en": "love you very much",
-          "zh": "",
-          "type": "phrase",
-          "audio": "loveyouverymuch.mp3"
+          "en": "because",
+          "zh": "因为",
+          "type": "word",
+          "audio": "because.mp3"
         },
         {
           "id": 26,
+          "en": "in the evening",
+          "zh": "在晚上",
+          "type": "phrase",
+          "audio": "intheevening.mp3"
+        },
+        {
+          "id": 27,
           "en": "window",
-          "zh": "",
+          "zh": "窗户",
           "type": "word",
           "audio": "window.mp3"
         },
         {
-          "id": 27,
+          "id": 28,
           "en": "after",
-          "zh": "",
+          "zh": "在……之后",
           "type": "word",
           "audio": "after.mp3"
         },
         {
-          "id": 28,
+          "id": 29,
           "en": "angry",
-          "zh": "",
+          "zh": "生气的",
           "type": "word",
           "audio": "angry.mp3"
         },
         {
-          "id": 29,
+          "id": 30,
           "en": "There is a big bird flying in the sky.",
-          "zh": "",
+          "zh": "有一只鸟在天上飞",
           "type": "sentence",
           "audio": "bigbirdflying.mp3"
         },
         {
-          "id": 30,
-          "en": "I want to eat that very much but I'm not hungry.",
-          "zh": "",
+          "id": 31,
+          "en": "She puts on a clean dress and her new shoes.",
+          "zh": "她穿上了一条干净的裙子和她的新鞋子",
           "type": "sentence",
-          "audio": "iwannaeat.mp3"
+          "audio": "sheputson.mp3"
         }
       ]
     },
@@ -243,86 +243,86 @@
       "name": "A3",
       "entities": [
         {
-          "id": 31,
+          "id": 32,
           "en": "afraid",
           "zh": "害怕",
           "type": "word",
           "audio": "afraid.mp3"
         },
         {
-          "id": 32,
+          "id": 33,
           "en": "question",
-          "zh": "",
+          "zh": "问题",
           "type": "word",
           "audio": "question.mp3"
         },
         {
-          "id": 33,
+          "id": 34,
           "en": "special",
-          "zh": "",
+          "zh": "特殊的",
           "type": "word",
           "audio": "special.mp3"
         },
         {
-          "id": 34,
+          "id": 35,
           "en": "remember",
-          "zh": "",
+          "zh": "记得",
           "type": "word",
           "audio": "remember.mp3"
         },
         {
-          "id": 35,
-          "en": "up and down",
-          "zh": "",
+          "id": 36,
+          "en": "jump up and down",
+          "zh": "跳上跳下",
           "type": "phrase",
-          "audio": "upanddown.mp3"
+          "audio": "jumpanddown.mp3"
         },
         {
-          "id": 36,
+          "id": 37,
           "en": "start to cry",
-          "zh": "",
+          "zh": "开始哭；开始大叫",
           "type": "phrase",
           "audio": "starttocry.mp3"
         },
         {
-          "id": 37,
+          "id": 38,
           "en": "look out of the window",
-          "zh": "",
+          "zh": "开窗外",
           "type": "phrase",
           "audio": "lookoutwindow.mp3"
         },
         {
-          "id": 38,
+          "id": 39,
           "en": "study",
-          "zh": "",
+          "zh": "学习；研究",
           "type": "word",
           "audio": "study.mp3"
         },
         {
-          "id": 39,
+          "id": 40,
           "en": "dangerous",
-          "zh": "",
+          "zh": "危险的",
           "type": "word",
           "audio": "dangerous.mp3"
         },
         {
-          "id": 40,
+          "id": 41,
           "en": "different",
-          "zh": "",
+          "zh": "不同的",
           "type": "word",
           "audio": "different.mp3"
         },
         {
-          "id": 41,
+          "id": 42,
           "en": "On Tuesday night there was a lot of noise in the streets.",
-          "zh": "",
+          "zh": "在周二的晚上，街道上有很多嘈杂声",
           "type": "sentence",
           "audio": "tuesdaynight.mp3"
         },
         {
-          "id": 42,
+          "id": 43,
           "en": "Many people from the village went to the house and looked for them.",
-          "zh": "",
+          "zh": "村里的很多人都去那个房子里找他们",
           "type": "sentence",
           "audio": "manypeople.mp3"
         }
@@ -332,86 +332,86 @@
       "name": "B1",
       "entities": [
         {
-          "id": 43,
+          "id": 44,
           "en": "visit",
-          "zh": "",
+          "zh": "拜访；参观",
           "type": "word",
           "audio": "visit.mp3"
         },
         {
-          "id": 44,
+          "id": 45,
           "en": "language",
-          "zh": "",
+          "zh": "语言",
           "type": "word",
           "audio": "language.mp3"
         },
         {
-          "id": 45,
+          "id": 46,
           "en": "arrive",
-          "zh": "",
+          "zh": "到达",
           "type": "word",
           "audio": "arrive.mp3"
         },
         {
-          "id": 46,
+          "id": 47,
           "en": "however",
-          "zh": "",
+          "zh": "然而/但是",
           "type": "word",
           "audio": "however.mp3"
         },
         {
-          "id": 47,
+          "id": 48,
           "en": "one of the horses",
-          "zh": "",
+          "zh": "其中一匹马",
           "type": "phrase",
           "audio": "oneofthehorses.mp3"
         },
         {
-          "id": 48,
+          "id": 49,
           "en": "decide to run",
-          "zh": "",
+          "zh": "决定跑",
           "type": "phrase",
           "audio": "decidetorun.mp3"
         },
         {
-          "id": 49,
+          "id": 50,
           "en": "direction",
-          "zh": "",
+          "zh": "方向",
           "type": "word",
           "audio": "direction.mp3"
         },
         {
-          "id": 50,
+          "id": 51,
           "en": "the most important",
-          "zh": "",
+          "zh": "最重要的",
           "type": "phrase",
           "audio": "themostimportant.mp3"
         },
         {
-          "id": 51,
+          "id": 52,
           "en": "never",
-          "zh": "",
+          "zh": "永不",
           "type": "word",
           "audio": "never.mp3"
         },
         {
-          "id": 52,
+          "id": 53,
           "en": "sleep for a long time",
-          "zh": "",
+          "zh": "睡了很长时间",
           "type": "phrase",
           "audio": "sleeplongtime.mp3"
         },
         {
-          "id": 53,
+          "id": 54,
           "en": "They do not believe that parents should choose their children's education.",
-          "zh": "",
+          "zh": "他们不相信父母可以选择他们孩子的教育",
           "type": "sentence",
           "audio": "theydonotbelieve.mp3"
         },
         {
-          "id": 54,
+          "id": 55,
           "en": "I was very kind to the man who had tried to hurt me with a knife.",
-          "zh": "",
+          "zh": "我当时对曾用刀伤害过我的男人非常友好",
           "type": "sentence",
           "audio": "iwasverykind.mp3"
         }
@@ -421,86 +421,86 @@
       "name": "B2",
       "entities": [
         {
-          "id": 55,
+          "id": 56,
           "en": "protect",
-          "zh": "",
+          "zh": "保护",
           "type": "word",
           "audio": "protect.mp3"
         },
         {
-          "id": 56,
+          "id": 57,
           "en": "conversation",
-          "zh": "",
+          "zh": "对话",
           "type": "word",
           "audio": "conversation.mp3"
         },
         {
-          "id": 57,
+          "id": 58,
           "en": "a few minutes later",
-          "zh": "",
+          "zh": "几分钟之后",
           "type": "phrase",
           "audio": "afewminuteslater.mp3"
         },
         {
-          "id": 58,
+          "id": 59,
           "en": "work as a doctor",
-          "zh": "",
+          "zh": "作为一个医生工作",
           "type": "phrase",
           "audio": "workasadoctor.mp3"
         },
         {
-          "id": 59,
+          "id": 60,
           "en": "tradition",
-          "zh": "",
+          "zh": "传统",
           "type": "word",
           "audio": "tradition.mp3"
         },
         {
-          "id": 60,
+          "id": 61,
           "en": "always",
-          "zh": "",
+          "zh": "一直；总是",
           "type": "word",
           "audio": "always.mp3"
         },
         {
-          "id": 61,
+          "id": 62,
           "en": "disappear",
-          "zh": "",
+          "zh": "消失",
           "type": "word",
           "audio": "disappear.mp3"
         },
         {
-          "id": 62,
+          "id": 63,
           "en": "prepare",
-          "zh": "",
+          "zh": "准备",
           "type": "word",
           "audio": "prepare.mp3"
         },
         {
-          "id": 63,
+          "id": 64,
           "en": "comfortable",
-          "zh": "",
+          "zh": "舒服的",
           "type": "word",
           "audio": "comfortable.mp3"
         },
         {
-          "id": 64,
+          "id": 65,
           "en": "healthier",
-          "zh": "",
+          "zh": "更健康的",
           "type": "word",
           "audio": "healthier.mp3"
         },
         {
-          "id": 65,
+          "id": 66,
           "en": "They have discovered how the money was stolen.",
-          "zh": "",
+          "zh": "他们已经发现了钱是怎么被偷的",
           "type": "sentence",
           "audio": "theyhavediscovered.mp3"
         },
         {
-          "id": 66,
+          "id": 67,
           "en": "Do you know if the shop's keeper had sold the chiken in the window?",
-          "zh": "",
+          "zh": "你知道，那家店的店员有没有把橱窗里的那只鸡卖了呢？",
           "type": "sentence",
           "audio": "doyouknow.mp3"
         }
@@ -510,86 +510,86 @@
       "name": "B3",
       "entities": [
         {
-          "id": 67,
+          "id": 68,
           "en": "mention",
-          "zh": "",
+          "zh": "提及",
           "type": "word",
           "audio": "mention.mp3"
         },
         {
-          "id": 68,
+          "id": 69,
           "en": "respect",
-          "zh": "",
+          "zh": "尊重",
           "type": "word",
           "audio": "respect.mp3"
         },
         {
-          "id": 69,
+          "id": 70,
           "en": "recognize",
-          "zh": "",
+          "zh": "认出；辨认",
           "type": "word",
           "audio": "recognize.mp3"
         },
         {
-          "id": 70,
+          "id": 71,
           "en": "evidence",
-          "zh": "",
+          "zh": "证据",
           "type": "word",
           "audio": "evidence.mp3"
         },
         {
-          "id": 71,
+          "id": 72,
           "en": "religion",
-          "zh": "",
+          "zh": "宗教",
           "type": "word",
           "audio": "religion.mp3"
         },
         {
-          "id": 72,
+          "id": 73,
           "en": "treasure",
-          "zh": "",
+          "zh": "宝藏",
           "type": "word",
           "audio": "treasure.mp3"
         },
         {
-          "id": 73,
+          "id": 74,
           "en": "including",
-          "zh": "",
+          "zh": "包括",
           "type": "word",
           "audio": "including.mp3"
         },
         {
-          "id": 74,
+          "id": 75,
           "en": "celebrate",
-          "zh": "",
+          "zh": "庆祝",
           "type": "word",
           "audio": "celebrate.mp3"
         },
         {
-          "id": 75,
+          "id": 76,
           "en": "patient",
-          "zh": "",
+          "zh": "耐心",
           "type": "word",
           "audio": "patient.mp3"
         },
         {
-          "id": 76,
+          "id": 77,
           "en": "fail",
-          "zh": "",
+          "zh": "失败",
           "type": "word",
           "audio": "fail.mp3"
         },
         {
-          "id": 77,
+          "id": 78,
           "en": "What my father had taught me had all been forgotten.",
-          "zh": "",
+          "zh": "我爸教我的全都被忘记了",
           "type": "sentence",
           "audio": "whatmyfather.mp3"
         },
         {
-          "id": 78,
+          "id": 79,
           "en": "He still believed that I was innocent and so he was as surprised as I was.",
-          "zh": "",
+          "zh": "他仍然相信我是无辜的并且他和我一样惊讶",
           "type": "sentence",
           "audio": "hestillbelieved.mp3"
         }
