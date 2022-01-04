@@ -76,7 +76,7 @@ button, .button {
   border: 2px solid var(--black-color);
   border-radius: 4px;
   margin: 0 auto;
-  margin-top: 48px;
+  margin-top: 24px;
   padding: 20px;
   box-shadow: -9px 9px 0 0 var(--black-color);
 }
